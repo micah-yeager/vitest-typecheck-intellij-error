@@ -60,3 +60,4 @@ Error: spawn tsc ENOENT
 
 - macOS 14.1.2
 - Node.js v18.20.3
+- WebStorm 2024.1.5 Build #WS-241.18034.50
