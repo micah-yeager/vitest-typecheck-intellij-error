@@ -1,0 +1,25 @@
+{
+  "name": "vitest-typecheck-intellij-error",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micah-yeager/vitest-typecheck-intellij-error.git"
+  },
+  "author": "Micah Yeager",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micah-yeager/vitest-typecheck-intellij-error/issues"
+  },
+  "homepage": "https://github.com/micah-yeager/vitest-typecheck-intellij-error#readme",
+  "description": "",
+  "dependencies": {
+    "vitest": "2.0.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
