@@ -6,14 +6,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/micah-yeager/vitest-typecheck-intellij-error.git"
+    "url": "git+https://github.com/micah-yeager/vitest-typecheck-jetbrains-error.git"
   },
   "author": "Micah Yeager",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/micah-yeager/vitest-typecheck-intellij-error/issues"
+    "url": "https://github.com/micah-yeager/vitest-typecheck-jetbrains-error/issues"
   },
-  "homepage": "https://github.com/micah-yeager/vitest-typecheck-intellij-error#readme",
+  "homepage": "https://github.com/micah-yeager/vitest-typecheck-jetbrains-error#readme",
   "description": "",
   "dependencies": {
     "vitest": "2.0.4"
