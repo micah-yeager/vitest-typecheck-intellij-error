@@ -1,6 +1,6 @@
 {
-  "name": "vitest-typecheck-intellij-error",
   "version": "1.0.0",
+  "name": "vitest-typecheck-jetbrains-error",
   "type": "module",
   "scripts": {
     "test": "vitest run"
