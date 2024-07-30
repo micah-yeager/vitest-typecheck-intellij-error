@@ -49,7 +49,7 @@ Error: spawn tsc ENOENT
 
 ## Notes
 
-- The IntelliJ configuration only uses default settings.
+- The WebStorm configuration only uses default settings.
 - The issue occurs with both Vitest v1 and v2.
 - No errors or warnings are emitted when running the tests from the command line
   with `npm test` or `npm run test`.
